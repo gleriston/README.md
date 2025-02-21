@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gleriston <br/><a href="https://github.com/gleriston">Cloud Engineer</a>, <a href="[www.linkedin.com/in/gleristonsampaio](www.linkedin.com/in/gleristonsampaio)/">ITSM Professional</a>
+<h1>Hi, I'm Gleriston <br/>
 
 
 <h2>🎓 Certificações</h2>
